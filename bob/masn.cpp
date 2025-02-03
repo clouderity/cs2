@@ -1,1 +1,6 @@
-System.out.println("Testing");
+#include <iostream>
+
+int main() {
+    std::cout << "Hi";
+    return 0;
+}
